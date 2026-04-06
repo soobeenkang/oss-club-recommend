@@ -15,8 +15,16 @@ L&C는 Lovely Communication의 약자로, SW·코딩 교육 봉사를 중심으�
 - 언플러그드 활동: SW 보드게임을 통해 컴퓨터 없이 컴퓨팅 사고력을 기릅니다.
 - 자체 교육 프로그램: 멘토들의 역량 강화를 위해 사전 교육과 세미나를 정기적으로 운영합니다.
   
-## 3. 활동 모습이 궁금해요! 
+## 3. 활동 모습이 궁금해요!
 
+![study1](https://github.com/user-attachments/assets/5b8597e0-c5e0-4e46-aeb5-92d0cbb747db)
+*▲ 직접 제작한 JavaScript 기초 교육 자료 (변수와 상수)*
+
+![study2](https://github.com/user-attachments/assets/00e6ee9e-a2d7-4701-98f7-80403f885d58)
+*▲ 실습 위주의 교육을 위한 코드 비교 및 논리 구조 예시*
+
+![teaching](https://github.com/user-attachments/assets/80351ca7-c99e-4577-a2e0-182bf48bf2c7)
+*▲ 실제 초·중·고등학교 현장에서 진행된 SW 교육 봉사 모습*
 
 ## 4. 어떤 사람에게 추천하나요
 - SW 교육 봉사를 통해 나눔의 가치를 실천하고 싶은 분
