@@ -17,14 +17,11 @@ L&C는 Lovely Communication의 약자로, SW·코딩 교육 봉사를 중심으�
   
 ## 3. 활동 모습이 궁금해요!
 
-![study1](https://github.com/user-attachments/assets/5b8597e0-c5e0-4e46-aeb5-92d0cbb747db)
-*▲ 직접 제작한 JavaScript 기초 교육 자료 (변수와 상수)*
+| ![study2](https://github.com/user-attachments/assets/00e6ee9e-a2d7-4701-98f7-80403f885d58) | ![teaching](https://github.com/user-attachments/assets/80351ca7-c99e-4577-a2e0-182bf48bf2c7) |
+| :---: | :---: |
+| **직접 만드는 교육자료** | **실제 교육 봉사 현장** |
 
-![study2](https://github.com/user-attachments/assets/00e6ee9e-a2d7-4701-98f7-80403f885d58)
-*▲ 실습 위주의 교육을 위한 코드 비교 및 논리 구조 예시*
-
-![teaching](https://github.com/user-attachments/assets/80351ca7-c99e-4577-a2e0-182bf48bf2c7)
-*▲ 실제 초·중·고등학교 현장에서 진행된 SW 교육 봉사 모습*
+> L&C는 아이들이 코딩의 핵심 원리를 쉽게 이해할 수 있도록 직접 제작한 시각 자료와 실습 위주의 교안을 활용합니다.
 
 ## 4. 어떤 사람에게 추천하나요
 - SW 교육 봉사를 통해 나눔의 가치를 실천하고 싶은 분
