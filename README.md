@@ -31,15 +31,15 @@ oss-club-recommend <br>
 │   └── feature/README-Project-Structure <br>
 <br>
 * README.md <br>
- -프로젝트 전체를 설명하는 문서<br>
+  - 프로젝트 전체를 설명하는 문서<br>
 * main_club 폴더 <br>
- - 중아동아리 동아리(RCY, terpsichore, cheongeum)의 정보를 담은 문서들이 위치  <br>
- - 각 문서는 브랜치에서 작성 및 수정한 뒤에 dev 브랜치에 merge commit으로 병합  <br>
+  - 중아동아리 동아리(RCY, terpsichore, cheongeum)의 정보를 담은 문서들이 위치  <br>
+  - 각 문서는 브랜치에서 작성 및 수정한 뒤에 dev 브랜치에 merge commit으로 병합  <br>
 * cs_club 폴더 <br>
- - 컴퓨터학부 동아리(Gori, L&C)의 정보를 담은 문서들이 위치 <br>
- - 각 문서는 브랜치에서 작성 및 수정한 뒤에 dev 브랜치에 merge commit으로 병합 <br>
+  - 컴퓨터학부 동아리(Gori, L&C)의 정보를 담은 문서들이 위치 <br>
+  - 각 문서는 브랜치에서 작성 및 수정한 뒤에 dev 브랜치에 merge commit으로 병합 <br>
 * feature/README.md 브랜치 <br>
- - 프로젝트 전체를 설명하는 README.md 파일을 다루는 상위 branch로 아래 branch들의 결과들 모아서 README.md에 반영하는 역할 <br>
- - (feature/README-projlntro, feature/README-member, feature/README-mainclub, feature/README-project-method , feature/README-Project-Structure) <br>
+  - 프로젝트 전체를 설명하는 README.md 파일을 다루는 상위 branch로 아래 branch들의 결과들 모아서 README.md에 반영하는 역할 <br>
+  - (feature/README-projlntro, feature/README-member, feature/README-mainclub, feature/README-project-method , feature/README-Project-Structure) <br>
 브랜치들은 feature/README.md에 squash and merge로 병합 <br>
- - 이후  feature/README.md 브랜치는 dev 브랜치에 merge commit으로 병합
+  - 이후  feature/README.md 브랜치는 dev 브랜치에 merge commit으로 병합
