@@ -15,7 +15,7 @@
 ###  봉사 동아리 (Volunteer)
 
  * **L&C (Lovely & Communication)**: 초/중/고등학생을 대상으로 스크래치, 아두이노 등 SW 교육 봉사를 진행하며 사회적 가치를 실현합니다.
-   > [**직접 참여해본 L&C 생생한 후기 보러가기 >>**]
+   > [**직접 참여해본 L&C 생생한 후기 보러가기 >>**](https://github.com/soobeenkang/oss-club-recommend/blob/feature/L%26C/L%26C.md)
 
 ###  예술 및 친목 동아리 (Arts & Social)
 
@@ -27,7 +27,7 @@
  * **KERT**: 정보보호 및 해킹 방어 연구를 중심으로 시스템, 네트워크 등 IT 전반을 탐구합니다.
  * **REVOLUTION**: Unity 엔진 등을 활용하여 인디 게임을 기획하고 실제로 출시하는 게임 개발 모임입니다.
  * **GORI**: 알고리즘 및 문제 해결 기법(PS)을 연구하며, 프로그래밍 경진대회 참여를 목표로 합니다.
-   > [**직접 참여해본 GORI 생생한 후기 보러가기 >>**]
+   > [**직접 참여해본 GORI 생생한 후기 보러가기 >>**](https://github.com/soobeenkang/oss-club-recommend/blob/feature/Gori/gori.md)
  * **GET IT**: SW 개발과 창업 아이디어를 결합해 실제 서비스로 구현해내는 에너지 넘치는 동아리입니다.
  
 # 5. 협업방식
