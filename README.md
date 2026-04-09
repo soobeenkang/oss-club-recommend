@@ -130,22 +130,37 @@
 | 최종 병합 | `dev` → `main` | Merge Commit | 프로젝트 전체의 최종 통합 이력 보존 |
 
 # 6. 프로젝트 구조
-### oss-club-recommend structure <br>
+### oss-club-recommend structure (branch) <br>
+```
+main
+└── dev
+    ├── feature/RCY
+    ├── feature/terpsichore
+    ├── feature/cheongeum
+    ├── feature/Gori
+    ├── feature/L&C
+    └── feature/README
+        ├── feature/README-projIntro
+        ├── feature/README-member
+        ├── feature/README-mainclub
+        ├── feature/README-CS-CLUB
+        ├── feature/README-cooperation-method
+        └── feature/README-Project-Structure
+```
+
+### oss-club-recommend structure (file) <br>
 ```
 oss-club-recommend
-├── README.md 
-├── dev 
-├── main_club (folder) 
-│   ├── feature/RCY.md 
-│   ├── feature/terpsichore.md  
-│   └── feature/cheongeum.md  
-├── cs_club (folder)   
-│   ├── feature/gori.md  
-│   └── feature/L&C.md  
-└──  feature/README.md  
-    ├── feature/README-projlntro 
-    ├── feature/README-member 
-    ├── feature/README-mainclub 
-    ├── feature/README-project-method  
-    └── feature/README-Project-Structure 
+├── README.md
+├── main_club
+    ├── RCY.md
+    ├── terpsichore.md
+    ├── terpsichore_thumb.png
+    ├── terpsichore_recommend.md
+    ├── cheongeum.md
+└── cs_club
+    ├── gori.md
+    ├── gori_ICPC 2025 메달.jpg
+    ├── gori_ICPC 2025 현장.jpg
+    └── L&C.md
 ```
