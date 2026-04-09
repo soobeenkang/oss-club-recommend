@@ -36,5 +36,14 @@ main
 oss-club-recommend
 ├── README.md
 ├── main_club
-└── cs_club   
+    ├── RCY.md
+    ├── terpsichore.md
+    ├── terpsichore_thumb.png
+    ├── terpsichore_recommend.md
+    ├── cheongeum.md
+└── cs_club
+    ├── gori.md
+    ├── gori_ICPC 2025 메달.jpg
+    ├── gori_ICPC 2025 현장.jpg
+    └── L&C.md
 ```
