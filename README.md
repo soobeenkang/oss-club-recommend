@@ -42,10 +42,31 @@
 
 ---
 
+## 📝 Commit 정책 및 규칙
+
+### 동아리 Commit
+
+- 각자의 동아리 branch 생성: `feature/동아리명` 형식
+- 자신의 branch에서 동아리 소개 파일 생성: `동아리명.md` 형식
+- **04/05 ~ 04/07** 기간 동안 총 **8회** commit
+- commit 시마다 내용을 반드시 추가하거나 다듬을 것
+- md 문법을 필수적으로 사용할 것
+
+
+### README.md Commit
+
+- 공통 형식 유지를 위한 템플릿 branch 생성: `feature/README`
+- `feature/README` 에서 파트별 branch 분기: `feature/README-파트명` 형식
+- **04/07 ~ 04/09** 기간 동안 자신의 파트를 책임지고 완성할 것
+- commit 시 **자신의 파트 외 내용은 수정 금지** → Merge Conflict 방지
+
+
+---
+
 ## 🔀 Branch 작업 요약
 
 | 대상 | Branch 흐름 | Merge 방식 | 선택 이유 |
-|------|--------------|------------|-----------|
+|------|-------------|------------|-----------|
 | 동아리 소개 파일 | `feature/동아리명` → `dev` | Merge Commit | 기여 이력을 명확하게 추적 가능 |
 | README 파트 | `feature/README-파트명` → `feature/README` | Squash and Merge | 파트별 커밋을 하나로 정리, 간결한 히스토리 유지 |
 | README 통합 | `feature/README` → `dev` | Merge Commit | 최종 README 결과를 이력과 함께 dev에 반영 |
