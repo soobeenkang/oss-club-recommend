@@ -3,6 +3,14 @@
 # 1. 프로젝트 소개
 
 # 2. 팀원
+| 이름 | 동아리 구분 | 동아리명 |
+|------|--------|---------------|  
+| 강수빈 | 중앙 | [터프시커리](./main_club/terpsichore_recommend.md) |
+| 김고은 | 학부 | [L&C](./cs_club/L&C.md) |
+| 나하윤 | 중앙 | [RCY](./main_club/RCY.md) |
+| 차은지 | 중앙 | [청음반](./main_club/cheongeum.md) |
+| 황영종 | 학부 | [Gori](./cs_club/gori.md) | 
+
 
 # 3. 중앙동아리 소개
 - 해당 동아리 소개
