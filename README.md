@@ -15,26 +15,25 @@
 # 6. 프로젝트 구조
 ### oss-club-recommend structure (branch) <br>
 ```
-oss-club-recommend
-├── README.md 
-│   ├── feature/RCY.md 
-│   ├── feature/terpsichore.md  
-│   └── feature/cheongeum.md  
-│   ├── feature/gori.md  
-│   └── feature/L&C.md  
-└──  feature/README.md  
-    ├── feature/README-projlntro 
-    ├── feature/README-member 
-    ├── feature/README-mainclub 
-    ├── feature/README-project-method  
-    └── feature/README-Project-Structure
+main
+└── dev
+    ├── feature/RCY
+    ├── feature/terpsichore
+    ├── feature/cheongeum
+    ├── feature/gori
+    ├── feature/L&C
+    └── feature/README
+        ├── feature/README-projIntro
+        ├── feature/README-member
+        ├── feature/README-mainclub
+        ├── feature/README-project-method
+        └── feature/README-Project-Structure
 ```
 
 ### oss-club-recommend structure (file) <br>
 ```
 oss-club-recommend
-├── README.md 
-├── dev 
-├── main_club (folder) 
-└── cs_club (folder)    
+├── README.md
+├── main_club
+└── cs_club   
 ```
