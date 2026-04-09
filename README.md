@@ -13,16 +13,13 @@
 # 5. 협업방식
 
 # 6. 프로젝트 구조
-### oss-club-recommend structure <br>
+### oss-club-recommend structure (branch) <br>
 ```
 oss-club-recommend
 ├── README.md 
-├── dev 
-├── main_club (folder) 
 │   ├── feature/RCY.md 
 │   ├── feature/terpsichore.md  
 │   └── feature/cheongeum.md  
-├── cs_club (folder)   
 │   ├── feature/gori.md  
 │   └── feature/L&C.md  
 └──  feature/README.md  
@@ -30,5 +27,14 @@ oss-club-recommend
     ├── feature/README-member 
     ├── feature/README-mainclub 
     ├── feature/README-project-method  
-    └── feature/README-Project-Structure 
+    └── feature/README-Project-Structure
+```
+
+### oss-club-recommend structure (file) <br>
+```
+oss-club-recommend
+├── README.md 
+├── dev 
+├── main_club (folder) 
+└── cs_club (folder)    
 ```
