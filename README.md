@@ -20,14 +20,14 @@ main
     ├── feature/RCY
     ├── feature/terpsichore
     ├── feature/cheongeum
-    ├── feature/gori
+    ├── feature/Gori
     ├── feature/L&C
     └── feature/README
         ├── feature/README-projIntro
         ├── feature/README-member
         ├── feature/README-mainclub
-        ├── feature/README-cs-club
-        ├── feature/README-project-method
+        ├── feature/README-CS-CLUB
+        ├── feature/README-cooperation-method
         └── feature/README-Project-Structure
 ```
 
